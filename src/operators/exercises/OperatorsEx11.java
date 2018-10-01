@@ -1,0 +1,72 @@
+package operators.exercises;
+
+public class OperatorsEx11 {
+	int const1 = 0x80000000;
+	
+	public static void main(String[] args) {
+		OperatorsEx11 signedRightShift = new OperatorsEx11();
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+		signedRightShift.const1>>=1;
+		System.out.println(Integer.toBinaryString(signedRightShift.const1));
+	}
+}
