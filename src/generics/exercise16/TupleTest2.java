@@ -1,6 +1,6 @@
 package generics.exercise16;
 import net.mindview.util.*;
-import static generics.exercise16.Tuple.tuple;
+import static generics.exercise16.Tuple.*;
 
 public class TupleTest2 {
     static TwoTuple<String,Integer> f() {
